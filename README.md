@@ -2,7 +2,9 @@
 
 ## Recriando a página inicial do Instagram
 
-### 		<lu> Desafio 1 do Bootcamp HTML Web Developer </lu>
+### 		Desafio 1 do Bootcamp HTML Web Developer/DIO
+
+####Utilizando: HTML, CSS
 
 
 
