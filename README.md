@@ -1,10 +1,7 @@
-# Desafio Digital Innovation One
+# InsTAYHgram
 
-## Recriando a página inicial do Instagram
+### Recriando a página inicial do Instagram
 
-### 		Desafio 1 do Bootcamp HTML Web Developer/DIO
-
-####Utilizando: HTML, CSS
-
+<img src="https://github.com/tayhsn/instayhgram/blob/master/demo.png" />
 
 
